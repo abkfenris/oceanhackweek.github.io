@@ -1,19 +1,17 @@
 team:
-  - name: Aimee Barciauskas
-    title: Data Engineer
-    affiliate: Development Seed
-    image_url: https://developmentseed.org/static/4cedd143a50d1f6cfd7999ec017950ea/8a438/aimee.jpg
-    github_user: abarciauskas-bgse
-    roles:
-      - OHW21 Organizer
+  # - name: Aimee Barciauskas
+  #   title: Data Engineer
+  #   affiliate: Development Seed
+  #   image_url: https://developmentseed.org/static/4cedd143a50d1f6cfd7999ec017950ea/8a438/aimee.jpg
+  #   github_user: abarciauskas-bgse
+  #   roles:
 
-  - name: Mathew Biddle
-    title: Data Management Analyst
-    affiliate: NOAA IOOS
-    image_url: https://avatars.githubusercontent.com/u/8480023?v=4
-    github_user: MathewBiddle
-    roles:
-      - OHW21 Organizer
+  # - name: Mathew Biddle
+  #   title: Data Management Analyst
+  #   affiliate: NOAA IOOS
+  #   image_url: https://avatars.githubusercontent.com/u/8480023?v=4
+  #   github_user: MathewBiddle
+  #   roles:
 
   - name: Filipe Fernandes
     title: Research Software Engineer
@@ -24,20 +22,14 @@ team:
       - Steering Committee
       - Tutorials
       - Infrastructure
-      - OHW18 Organizer
-      - OHW19 Organizer
-      - OHW20 Organizer
-      - OHW21 Organizer
       - OHW22 Organizer - Florianopolis
 
-  - name: Chelle Gentemann
-    title: Senior Scientist
-    affiliate: Farallon Institute
-    image_url: https://images.squarespace-cdn.com/content/v1/56a6b01dd8af105db2511b83/1619046574422-KMBIXE9PYFBIXH9SN7CO/ke17ZwdGBToddI8pDm48kK60W-ob1oA2Fm-j4E_9NQB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kD6Ec8Uq9YczfrzwR7e2Mh5VMMOxnTbph8FXiclivDQnof69TlCeE0rAhj6HUpXkw/ChelleIMG_7296.jpg
-    github_user: cgentemann
-    roles:
-      - OHW20 Organizer
-      - OHW21 Organizer
+  # - name: Chelle Gentemann
+  #   title: Senior Scientist
+  #   affiliate: Farallon Institute
+  #   image_url: https://images.squarespace-cdn.com/content/v1/56a6b01dd8af105db2511b83/1619046574422-KMBIXE9PYFBIXH9SN7CO/ke17ZwdGBToddI8pDm48kK60W-ob1oA2Fm-j4E_9NQB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kD6Ec8Uq9YczfrzwR7e2Mh5VMMOxnTbph8FXiclivDQnof69TlCeE0rAhj6HUpXkw/ChelleIMG_7296.jpg
+  #   github_user: cgentemann
+  #   roles:
 
   - name: Alison Gray
     title: Assistant Professor
@@ -45,7 +37,6 @@ team:
     image_url: https://www.ocean.washington.edu/files/alisongray-2018-20180717023407_smsq.jpg
     github_user: alisonrgray
     roles:
-      - OHW21 Organizer
       - OHW22 Organizer
 
   - name: Joseph Gum
@@ -57,18 +48,13 @@ team:
       - Steering Committee
       - Applicant Selection
       - Projects
-      - OHW18 Participant
-      - OHW19 Organizer
-      - OHW20 Organizer
-      - OHW21 Organizer
       - OHW22 Organizer - Global
 
-  - name: Charley Haley
-    title: Organizational & Social Strategist
-    affiliate: Back Loop Consulting Group
-    image_url: https://media-exp1.licdn.com/dms/image/C5603AQHRrrm4VJcfBA/profile-displayphoto-shrink_200_200/0/1596141577546?e=1631750400&v=beta&t=0qoepteS1Git0uS5ObyTB5W38iyHbQZQbX2M7EUdjCU
-    roles:
-      - OHW21 Organizer
+  # - name: Charley Haley
+  #   title: Organizational & Social Strategist
+  #   affiliate: Back Loop Consulting Group
+  #   image_url: https://media-exp1.licdn.com/dms/image/C5603AQHRrrm4VJcfBA/profile-displayphoto-shrink_200_200/0/1596141577546?e=1631750400&v=beta&t=0qoepteS1Git0uS5ObyTB5W38iyHbQZQbX2M7EUdjCU
+  #   roles:
 
   - name: Alex Kerney
     title: Web Application Developer
@@ -80,8 +66,6 @@ team:
       - Steering Committee
       - Infrastructure
       - Website
-      - OHW20 Organizer
-      - OHW21 Organizer - Maine
       - OHW22 Organizer - Maine
 
   - name: Jane Koh
@@ -90,9 +74,6 @@ team:
     image_url: https://geohackweek.github.io/assets/images/JaneKoh.jpg
     roles:
       - Steering Committee
-      - OHW19 Organizer
-      - OHW20 Organizer
-      - OHW21 Organizer
       - OHW22 Organizer
 
   - name: Wu-Jung Lee
@@ -105,10 +86,6 @@ team:
       - Applicant Selection
       - Tutorials
       - Financial Planning
-      - OHW18 Organizer
-      - OHW19 Organizer
-      - OHW20 Organizer
-      - OHW21 Organizer
       - OHW22 Organizer - UW
 
   - name: Paige Martin
@@ -118,7 +95,6 @@ team:
     github_user: paigem
     roles:
       - Steering Committee
-      - OHW21 Organizer - Australia
       - OHW22 Organizer
 
   - name: Emilio Mayorga
@@ -129,10 +105,6 @@ team:
     roles:
       - Steering Committee
       - Applicant Selection
-      - OHW18 Organizer
-      - OHW19 Organizer
-      - OHW20 Organizer
-      - OHW21 Organizer
       - OHW22 Organizer - UW
       - OHW22 Organizer - Espanol
 
@@ -148,8 +120,6 @@ team:
       - Tutorials
       - Projects
       - Financial Planning
-      - OHW20 Organizer
-      - OHW21 Organizer - Maine
       - OHW22 Organizer - Maine
 
   - name: Thomas Moore
@@ -162,7 +132,6 @@ team:
       - Projects
       - Infrastructure
       - Website
-      - OHW21 Organizer - Australia
       - OHW22 Organizer
 
   - name: Nick Record
@@ -172,8 +141,6 @@ team:
     github_user: SeascapeScience
     roles:
       - Steering Committee
-      - OHW20 Organizer
-      - OHW21 Organizer - Maine
       - OHW22 Organizer
 
   - name: Derya Gumustel
@@ -183,7 +150,6 @@ team:
     github_user: dgumustel
     roles:
       - Steering Committee
-      - OHW21 Organizer
       - OHW22 Organizer
 
   - name: Nick Mortimer
@@ -193,8 +159,6 @@ team:
     github_user: NickMortimer
     roles:
       - Steering Committee
-      - OHW20 Participant
-      - OHW21 Organizer - Australia
       - OHW22 Organizer - Australia
 
   - name: Sophie Clayton
@@ -204,7 +168,6 @@ team:
     github_user: sophieclayton
     roles:
       - Steering Committee
-      - OHW20 Organizer
       - OHW22 Organizer
 
   # - name: Georgy Manucharyan
@@ -222,5 +185,4 @@ team:
     github_user: sdiggs
     roles:
       - Financial Planning
-      - OHW21 Participant
       - OHW22 Organizer - San Diego
