@@ -1,4 +1,4 @@
-# Resources
+# OHW22 Resources
 
 :::{admonition} Updates in progress
 :class: warning
@@ -7,7 +7,7 @@ The resources are actively being updated! Some parts are still out of date, and 
 
 :::
 
-To make sure that OHW21 will be a welcoming environment for everyone, please read our [Code of Conduct](/about/code-of-conduct.md) carefully as part of your preparation. We expect all participants to adhere to the Code of Conduct in all interactions throughout the hackweek.
+To make sure that OHW22 will be a welcoming environment for everyone, please read our [Code of Conduct](/about/code-of-conduct.md) carefully as part of your preparation. We expect all participants to adhere to the Code of Conduct in all interactions throughout the hackweek.
 
 ## Schedules
 
@@ -20,6 +20,12 @@ We will use a [JupyterHub](https://jupyter.org/hub)-based online environment for
 <!-- **On July 29 and 30, we will offer short "pre-hackweek" optional sessions to answer questions on the basics of Git, GitHub, Jupyter and core R and Python scientific libraries, and OceanHackWeek in general. The schedule is available in the [Schedule page](schedule.md#pre-hackweek-optional-check-ins), and the Zoom link will be sent via Slack.** -->
 
 We will use Slack, Zoom and GitHub as our primary communication and content delivery platforms. The week before OceanHackWeek you will receive via email an invitation to join the OceanHackWeek GitHub organization, [https://github.com/oceanhackweek/](https://github.com/oceanhackweek/) if you have not received it already, along with Slack invites and Zoom connection info.
+
+
+```{toctree}
+:hidden:
+Code of Conduct </about/code-of-conduct>
+```
 
 ```{toctree}
 :maxdepth: 2
@@ -34,13 +40,12 @@ schedule
 
 ```{toctree}
 :hidden:
-:caption: Preperation
+:caption: Preparation
 
-prep/git
+Git <prep/git>
 prep/github
 prep/jupyterhub
-prep/conda
-
+Conda, Python, R <prep/conda>
 ```
 
 ```{toctree}
@@ -48,7 +53,6 @@ prep/conda
 :caption: Tutorials
 
 tutorials/getting_started
-
 ```
 
 ```{toctree}
@@ -57,7 +61,6 @@ tutorials/getting_started
 
 projects/overview
 projects/steps
-
 ```
 
 ```{toctree}
